@@ -1,0 +1,11 @@
+#a1{
+    color: rgba(19, 11, 11, 0.527);
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+#a1{
+    background-color: rgb(163, 157, 218);
+    height: 100px; width: 90px; padding-top: 100px; padding-left: 50px; padding-bottom: 50px; padding-right:50px;
+    border-left:height: 100px; width: 90px; border-top: 100px; border-bottom: 50px; border-right:50px; ;
+}
